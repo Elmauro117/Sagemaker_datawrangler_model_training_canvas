@@ -2,7 +2,7 @@
 
 This project goes thrpugh all the process of Data Wrangling to Model training using Low-Code tool AWS SAGEMAKER CANVAS
 
-![Alt text](images_1/1.JPG)
+![Alt text](images_1/1.PNG)
 
 First we create the dataset, we can upload it from an S3 buckt or local
 
